@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmadAbuAlhlawa
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C , JAVA
+- 🌱 I’m currently learning C , JAVA , react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ahmadhlawa2002@gmail.com
 
